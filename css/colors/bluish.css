@@ -1,0 +1,161 @@
+@-webkit-keyframes preloader {
+  25% {
+    height: 30px;
+    -webkit-transform: translateY(15px);
+    transform: translateY(15px);
+    background: #145A73;
+  }
+}
+
+@keyframes preloader {
+  25% {
+    height: 30px;
+    -webkit-transform: translateY(15px);
+    transform: translateY(15px);
+    background: #145A73;
+  }
+}
+
+.btn-main {
+  background: #3d3a48;
+  border: 1px solid #3d3a48;
+}
+
+.title .border {
+  background-color: #145A73;
+}
+
+.portfolio-filter button {
+  background: #145A73;
+}
+
+.navigation .navbar-nav > li.active a {
+  color: #145A73;
+}
+
+.navigation .navbar-nav > li > a:hover, .navigation .navbar-nav > li > a:active, .navigation .navbar-nav > li > a:focus {
+  color: #145A73;
+}
+
+.testimonial {
+  background: #145A73;
+}
+
+.team .member-photo .mask {
+  background: rgba(55, 64, 50, 0.7);
+}
+
+/*=================================================================
+  Our skills
+==================================================================*/
+.team-skills .progress-block .progress .progress-bar {
+  background: #145A73;
+}
+
+/*=================================================================
+  Step section
+==================================================================*/
+.development-steps .step-2 {
+  background-color: #145A73;
+}
+
+.development-steps .step-3 {
+  background: #468924;
+}
+
+.development-steps .step-4 {
+  background: #3c751f;
+}
+
+.services .service-block.color-bg {
+  background: #3d3a48;
+}
+
+.services .service-block i {
+  color: #3d3a48;
+}
+
+.service-2 .service-item:hover i {
+  color: #145A73;
+}
+
+.service-2 .service-item i {
+  background: #145A73 none repeat scroll 0 0;
+}
+
+.pricing-table .price-title .value {
+  color: #145A73;
+}
+
+.portfolio-filter ul li.active {
+  background: #145A73;
+}
+
+.portfolio-block .caption .search-icon {
+  background: #145A73;
+}
+
+.counters-item i {
+  color: #145A73;
+}
+
+.contact-form input:hover,
+.contact-form textarea:hover,
+.contact-form #contact-submit:hover {
+  border-color: #145A73;
+}
+
+.contact-form #contact-submit {
+  background:transparent;
+}
+
+.social-icon .facebookicon li a:hover{
+  background: #3b5998;
+  border: none;
+}
+.social-icon .twittericon li a:hover{
+  background: #38A1F3;
+  border: none;
+}
+.social-icon .githubicon li a:hover{
+  background: #211F1F;
+  border: none;
+}
+.social-icon .linkedinicon li a:hover{
+  background: #0077B5;
+  border: none;
+}
+
+.about .btn-about {
+  background: #145A73;
+}
+
+.about .feature-list li i {
+  color: #145A73;
+}
+
+.top-footer li a:hover {
+  color: #145A73;
+}
+
+.footer-bottom a {
+  color: #fff;
+}
+
+.post-meta a {
+  color: #145A73;
+}
+
+.next-prev a:hover {
+  color: #145A73;
+}
+
+.social-profile ul li a i:hover {
+  color: #145A73;
+}
+
+.comment-reply-form input:focus, .comment-reply-form textarea:focus {
+  border: 1px solid #145A73;
+}
+
+/*# sourceMappingURL=../maps/colors/bluish.css.map */
