@@ -1390,9 +1390,12 @@ a:focus, a:hover {
 }
 
 .team .team-member .member-content p {
+  font-size: 12.7px;
   color: #777;
+  /* text-align: justify; */
   margin-top: 10px;
   line-height: 1;
+  padding: 0 7em 0 7em; 
 }
 
 .team .member-photo {
